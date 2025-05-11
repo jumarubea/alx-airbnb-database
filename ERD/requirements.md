@@ -1,4 +1,4 @@
-# Entity-Relationship Diagram (ERD)
+Entity-Relationship Diagram (ERD)
 
 A textual representation of the entities, attributes, relationships, and constraints in the system
 
@@ -106,3 +106,6 @@ A textual representation of the entities, attributes, relationships, and constra
 - `User.email`: Indexed and UNIQUE  
 - `Property.property_id`: Indexed  
 - `Booking.booking_id`: Indexed  
+=======
+ER diagram for Airbnb Backend
+<img src="erd_airbnb.drawio.png"/>
